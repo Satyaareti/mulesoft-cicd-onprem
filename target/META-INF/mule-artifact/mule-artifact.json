@@ -12,7 +12,6 @@
     "attributes": {
       "exportedPackages": [],
       "exportedResources": [
-        "env/dev.properties",
         "log4j2.xml",
         "mulesoft-cicd-onprem.xml"
       ]
